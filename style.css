@@ -24,18 +24,15 @@ img.logo {
   padding: 25 25 25 25;
   width: 500px;
   height: auto;
-  background-color: #333;
-  color: #f1f1f1;
-  opacity: .5;
+  text-decoration: bold;
 }
 
 .info {
   padding: 25 25 25 25;
   width: 500px;
   height: auto;
-  background-color: #333;
-  color: #f1f1f1;
-  opacity: .5;
+
+
 }
 
 .container {
