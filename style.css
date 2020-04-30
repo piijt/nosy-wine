@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f1f1f1;
+}
+img.logo {
+  width: 25%;
+  height: auto;
+}
+
+.logo {
+  width: auto;
+  height: 50%;
+}
+
+.logo-container {
+
+}
+
+.contact {
+  padding: 25 25 25 25;
+  width: 500px;
+  height: auto;
+  background-color: #333;
+  color: #f1f1f1;
+  opacity: .5;
+}
+
+.info {
+  padding: 25 25 25 25;
+  width: 500px;
+  height: auto;
+  background-color: #333;
+  color: #f1f1f1;
+  opacity: .5;
+}
+
+.container {
+  padding-top: 50px;
+}
